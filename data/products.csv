@@ -1,0 +1,19 @@
+brand,product_id,product_name,product_category,color,drop_name,drop_date,launch_price_usd,cost_to_produce_usd,initial_inventory,restock_date,product_status
+Non-Foya Archive,NON-2000,Basic Black T,Basics,,Core Collection,2025-09-18,30,10,93,,active
+Non-Foya Archive,NON-2001,3 Pack Sanforized Cotton Blank,Basics,,Archive Sale,2025-11-12,145,57,126,,active
+Non-Foya Archive,NON-2002,Flintstone Belt,Accessories,,Archive Sale,2025-11-12,85,25,86,,active
+Non-Foya Archive,NON-2003,Rugby Sweatshirt,Tops,,Core Collection,2025-09-18,110,41,89,,active
+Non-Foya Archive,NON-2004,Basic Bootcut Denim,Denim,,Core Collection,2025-09-18,155,55,76,2025-09-27,discontinued
+Non-Foya Archive,NON-2005,V2 Basic Denim (Navy),Denim,,Core Collection,2025-09-18,140,53,107,2025-09-28,active
+Non-Foya Archive,NON-2006,V2 Basic Denim (Black),Denim,,Core Collection,2025-09-18,140,61,93,,active
+Non-Foya Archive,NON-2007,Indigo Raw Denim Balloon Jean,Denim,,Archive Sale,2025-11-12,170,55,67,,active
+Non-Foya Archive,NON-2008,Black Raw Denim Balloon Jean,Denim,,Core Collection,2025-09-18,155,62,81,2025-10-01,active
+Non-Foya Archive,NON-2009,Black Flared Selvedge Jean,Denim,,Core Collection,2025-09-18,190,59,117,,active
+Non-Foya Archive,NON-2010,Fisher Short (Denim),Shorts,,Core Collection,2025-09-18,160,64,97,,active
+Non-Foya Archive,NON-2011,Fisher Short (Cream),Shorts,,Core Collection,2025-09-18,145,46,90,2025-09-30,active
+Non-Foya Archive,NON-2012,Fisher Short (Green),Shorts,,Core Collection,2025-09-18,140,54,60,2025-09-28,active
+Non-Foya Archive,NON-2013,Fisher Short (Black),Shorts,,Archive Sale,2025-11-12,140,52,68,2025-11-29,active
+Non-Foya Archive,NON-2014,Fisher Short (Black Stone Washed),Shorts,,Archive Sale,2025-11-12,145,46,107,,active
+Non-Foya Archive,NON-2015,Fisher Short (Green Stone Washed),Shorts,,Core Collection,2025-09-18,145,51,77,,active
+Non-Foya Archive,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,,Core Collection,2025-09-18,375,167,26,,active
+Non-Foya Archive,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,,Archive Sale,2025-11-12,340,146,52,,active

@@ -1,0 +1,474 @@
+brand,order_id,order_datetime,customer_id,shipping_state,product_id,product_name,product_category,drop_name,drop_date,unit_price_usd,quantity,promo_code,discount_rate,shipping_fee_usd,estimated_tax_usd,order_subtotal_usd,order_total_usd
+Non-Foya Archive,O60010,2025-09-18 09:44:00,NON-C00632,NJ,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,25.69,315.0,345.69
+Non-Foya Archive,O60011,2025-09-18 09:54:00,NON-C00875,NJ,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,45.78,560.0,610.78
+Non-Foya Archive,O60009,2025-09-18 10:27:00,NON-C00875,WA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.67,30.0,37.67
+Non-Foya Archive,O60002,2025-09-18 13:26:00,NON-C00769,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,FREESHIP,0.0,0.0,13.77,185.0,198.77
+Non-Foya Archive,O60006,2025-09-18 13:35:00,NON-C00769,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,55.93,605.0,665.93
+Non-Foya Archive,O60007,2025-09-18 13:50:00,NON-C00733,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,2.59,30.0,39.59
+Non-Foya Archive,O60005,2025-09-18 14:10:00,NON-C00700,FL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,7.0,14.59,160.0,181.59
+Non-Foya Archive,O60011,2025-09-18 15:02:00,NON-C00875,NJ,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,45.78,560.0,610.78
+Non-Foya Archive,O60010,2025-09-18 15:31:00,NON-C00632,NJ,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,25.69,315.0,345.69
+Non-Foya Archive,O60001,2025-09-18 16:34:00,NON-C00733,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,2,FREESHIP,0.0,0.0,31.64,450.0,481.64
+Non-Foya Archive,O60010,2025-09-18 19:07:00,NON-C00632,NJ,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,25.69,315.0,345.69
+Non-Foya Archive,O60006,2025-09-18 19:18:00,NON-C00769,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,55.93,605.0,665.93
+Non-Foya Archive,O60002,2025-09-18 19:23:00,NON-C00769,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,FREESHIP,0.0,0.0,13.77,185.0,198.77
+Non-Foya Archive,O60008,2025-09-18 19:50:00,NON-C00875,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,2,WELCOME10,0.1,5.0,18.87,280.0,275.87
+Non-Foya Archive,O60006,2025-09-18 20:02:00,NON-C00769,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,5.0,55.93,605.0,665.93
+Non-Foya Archive,O60004,2025-09-18 20:15:00,NON-C00733,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,WELCOME10,0.1,5.0,11.11,145.0,146.61
+Non-Foya Archive,O60001,2025-09-18 22:26:00,NON-C00733,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,FREESHIP,0.0,0.0,31.64,450.0,481.64
+Non-Foya Archive,O60003,2025-09-18 22:30:00,NON-C00647,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,26.93,375.0,406.93
+Non-Foya Archive,O60011,2025-09-18 22:37:00,NON-C00875,NJ,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,45.78,560.0,610.78
+Non-Foya Archive,O60017,2025-09-19 11:28:00,NON-C00117,FL,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,26.95,300.0,333.95
+Non-Foya Archive,O60016,2025-09-19 13:29:00,NON-C00834,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,14.19,155.0,174.19
+Non-Foya Archive,O60015,2025-09-19 16:21:00,NON-C00598,NY,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,5.0,15.34,190.0,181.84
+Non-Foya Archive,O60014,2025-09-19 16:49:00,NON-C00744,NJ,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,15.24,185.0,207.24
+Non-Foya Archive,O60012,2025-09-19 17:25:00,NON-C00407,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,34.56,405.0,446.56
+Non-Foya Archive,O60012,2025-09-19 18:39:00,NON-C00407,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,34.56,405.0,446.56
+Non-Foya Archive,O60013,2025-09-19 19:09:00,NON-C00365,TX,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,10.9,145.0,160.9
+Non-Foya Archive,O60014,2025-09-19 19:29:00,NON-C00744,NJ,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,15.24,185.0,207.24
+Non-Foya Archive,O60017,2025-09-19 20:46:00,NON-C00117,FL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,7.0,26.95,300.0,333.95
+Non-Foya Archive,O60020,2025-09-20 10:16:00,NON-C00873,NY,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,WELCOME10,0.1,5.0,31.28,375.0,373.78
+Non-Foya Archive,O60023,2025-09-20 12:28:00,NON-C00013,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,12.4,160.0,177.4
+Non-Foya Archive,O60022,2025-09-20 12:50:00,NON-C00647,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.49,145.0,161.49
+Non-Foya Archive,O60019,2025-09-20 14:04:00,NON-C00232,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,ARCHIVE20,0.2,5.0,9.01,155.0,138.01
+Non-Foya Archive,O60021,2025-09-20 17:29:00,NON-C00590,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,13.3,170.0,188.3
+Non-Foya Archive,O60018,2025-09-20 18:53:00,NON-C00535,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,WELCOME10,0.1,5.0,10.6,140.0,141.6
+Non-Foya Archive,O60021,2025-09-20 19:13:00,NON-C00590,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,13.3,170.0,188.3
+Non-Foya Archive,O60033,2025-09-21 09:00:00,NON-C00875,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,22.75,250.0,279.75
+Non-Foya Archive,O60026,2025-09-21 09:16:00,NON-C00766,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,WELCOME10,0.1,5.0,12.12,145.0,147.62
+Non-Foya Archive,O60027,2025-09-21 09:41:00,NON-C00650,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,47.61,535.0,587.61
+Non-Foya Archive,O60031,2025-09-21 12:36:00,NON-C00642,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,5.0,20.19,300.0,325.19
+Non-Foya Archive,O60031,2025-09-21 12:50:00,NON-C00642,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,20.19,300.0,325.19
+Non-Foya Archive,O60028,2025-09-21 13:02:00,NON-C00683,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,0.0,15.29,190.0,205.29
+Non-Foya Archive,O60025,2025-09-21 13:43:00,NON-C00513,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,10.87,140.0,157.87
+Non-Foya Archive,O60033,2025-09-21 15:31:00,NON-C00875,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,22.75,250.0,279.75
+Non-Foya Archive,O60032,2025-09-21 16:30:00,NON-C00875,NJ,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,DROP15,0.15,5.0,4.19,60.0,60.19
+Non-Foya Archive,O60030,2025-09-21 17:19:00,NON-C00776,NY,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,18.75,285.0,308.75
+Non-Foya Archive,O60029,2025-09-21 19:42:00,NON-C00135,WA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,7.0,8.81,140.0,127.81
+Non-Foya Archive,O60027,2025-09-21 20:12:00,NON-C00650,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,47.61,535.0,587.61
+Non-Foya Archive,O60024,2025-09-21 20:23:00,NON-C00735,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,13.23,155.0,175.23
+Non-Foya Archive,O60030,2025-09-21 22:33:00,NON-C00776,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,18.75,285.0,308.75
+Non-Foya Archive,O60040,2025-09-22 10:36:00,NON-C00543,NY,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,5.0,11.13,190.0,177.63
+Non-Foya Archive,O60036,2025-09-22 14:08:00,NON-C00758,FL,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,FREESHIP,0.0,0.0,11.86,145.0,156.86
+Non-Foya Archive,O60041,2025-09-22 14:45:00,NON-C00418,NY,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,DROP15,0.15,5.0,10.16,155.0,146.91
+Non-Foya Archive,O60037,2025-09-22 15:28:00,NON-C00096,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,2,WELCOME10,0.1,0.0,33.74,500.0,483.74
+Non-Foya Archive,O60039,2025-09-22 16:09:00,NON-C00686,NY,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,0.0,34.18,375.0,409.18
+Non-Foya Archive,O60035,2025-09-22 17:08:00,NON-C00687,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,15.88,190.0,210.88
+Non-Foya Archive,O60034,2025-09-22 17:34:00,NON-C00011,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,8.22,110.0,125.22
+Non-Foya Archive,O60037,2025-09-22 18:11:00,NON-C00096,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,WELCOME10,0.1,0.0,33.74,500.0,483.74
+Non-Foya Archive,O60038,2025-09-22 21:21:00,NON-C00848,FL,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,9.69,140.0,154.69
+Non-Foya Archive,O60035,2025-09-22 21:49:00,NON-C00687,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,15.88,190.0,210.88
+Non-Foya Archive,O60045,2025-09-23 10:09:00,NON-C00851,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,23.4,300.0,328.4
+Non-Foya Archive,O60048,2025-09-23 13:11:00,NON-C00687,WA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,ARCHIVE20,0.2,5.0,11.03,160.0,144.03
+Non-Foya Archive,O60045,2025-09-23 14:44:00,NON-C00851,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,23.4,300.0,328.4
+Non-Foya Archive,O60044,2025-09-23 15:18:00,NON-C00761,TX,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,2,FREESHIP,0.0,0.0,55.47,760.0,815.47
+Non-Foya Archive,O60047,2025-09-23 15:38:00,NON-C00684,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,ARCHIVE20,0.2,7.0,8.57,145.0,131.57
+Non-Foya Archive,O60049,2025-09-23 15:57:00,NON-C00072,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,DROP15,0.15,7.0,2.42,30.0,34.92
+Non-Foya Archive,O60042,2025-09-23 18:05:00,NON-C00741,NJ,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,9.53,140.0,158.53
+Non-Foya Archive,O60046,2025-09-23 18:31:00,NON-C00054,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,14.08,190.0,209.08
+Non-Foya Archive,O60050,2025-09-23 19:33:00,NON-C00686,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,9.25,140.0,149.25
+Non-Foya Archive,O60044,2025-09-23 20:12:00,NON-C00761,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,FREESHIP,0.0,0.0,55.47,760.0,815.47
+Non-Foya Archive,O60043,2025-09-23 20:33:00,NON-C00042,WA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,12.21,155.0,172.21
+Non-Foya Archive,O60044,2025-09-23 22:29:00,NON-C00761,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,2,FREESHIP,0.0,0.0,55.47,760.0,815.47
+Non-Foya Archive,O60053,2025-09-24 09:06:00,NON-C00140,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,5.0,13.49,190.0,179.99
+Non-Foya Archive,O60052,2025-09-24 09:15:00,NON-C00761,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,FREESHIP,0.0,0.0,9.52,140.0,149.52
+Non-Foya Archive,O60051,2025-09-24 11:38:00,NON-C00879,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,9.0,2.76,30.0,41.76
+Non-Foya Archive,O60057,2025-09-25 12:07:00,NON-C00632,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,9.0,62.62,670.0,741.62
+Non-Foya Archive,O60057,2025-09-25 13:24:00,NON-C00632,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,62.62,670.0,741.62
+Non-Foya Archive,O60056,2025-09-25 15:30:00,NON-C00875,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,14.44,155.0,174.44
+Non-Foya Archive,O60054,2025-09-25 18:02:00,NON-C00275,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,26.37,375.0,406.37
+Non-Foya Archive,O60057,2025-09-25 18:09:00,NON-C00632,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,9.0,62.62,670.0,741.62
+Non-Foya Archive,O60055,2025-09-25 19:26:00,NON-C00286,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,10.11,155.0,170.11
+Non-Foya Archive,O60058,2025-09-25 22:11:00,NON-C00803,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,12.46,145.0,157.46
+Non-Foya Archive,O60060,2025-09-26 17:17:00,NON-C00832,FL,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,24.95,280.0,309.95
+Non-Foya Archive,O60060,2025-09-26 19:43:00,NON-C00832,FL,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,24.95,280.0,309.95
+Non-Foya Archive,O60059,2025-09-26 22:17:00,NON-C00155,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.62,145.0,161.62
+Non-Foya Archive,O60062,2025-09-27 09:37:00,NON-C00394,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,2,,0.0,7.0,49.32,540.0,596.32
+Non-Foya Archive,O60062,2025-09-27 14:31:00,NON-C00394,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,7.0,49.32,540.0,596.32
+Non-Foya Archive,O60061,2025-09-27 17:40:00,NON-C00623,CA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,7.47,110.0,124.47
+Non-Foya Archive,O60063,2025-09-28 09:15:00,NON-C00769,NY,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,FREESHIP,0.0,0.0,33.41,405.0,438.41
+Non-Foya Archive,O60064,2025-09-28 13:24:00,NON-C00386,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,5.0,5.19,60.0,70.19
+Non-Foya Archive,O60063,2025-09-28 14:06:00,NON-C00769,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,FREESHIP,0.0,0.0,33.41,405.0,438.41
+Non-Foya Archive,O60065,2025-09-29 09:33:00,NON-C00117,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,32.85,415.0,447.85
+Non-Foya Archive,O60065,2025-09-29 13:34:00,NON-C00117,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,0.0,32.85,415.0,447.85
+Non-Foya Archive,O60067,2025-09-29 16:10:00,NON-C00190,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,29.61,335.0,369.61
+Non-Foya Archive,O60065,2025-09-29 17:06:00,NON-C00117,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,0.0,32.85,415.0,447.85
+Non-Foya Archive,O60068,2025-09-29 17:56:00,NON-C00894,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,5.0,17.17,200.0,222.17
+Non-Foya Archive,O60066,2025-09-29 19:06:00,NON-C00097,FL,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,ARCHIVE20,0.2,7.0,29.76,485.0,424.76
+Non-Foya Archive,O60066,2025-09-29 20:30:00,NON-C00097,FL,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,ARCHIVE20,0.2,7.0,29.76,485.0,424.76
+Non-Foya Archive,O60067,2025-09-29 20:38:00,NON-C00190,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,29.61,335.0,369.61
+Non-Foya Archive,O60068,2025-09-29 21:24:00,NON-C00894,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,17.17,200.0,222.17
+Non-Foya Archive,O60069,2025-09-30 11:49:00,NON-C00117,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,13.29,160.0,178.29
+Non-Foya Archive,O60070,2025-09-30 14:44:00,NON-C00830,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,FREESHIP,0.0,0.0,10.02,110.0,120.02
+Non-Foya Archive,O60071,2025-10-01 17:03:00,NON-C00851,FL,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,7.0,26.6,345.0,326.85
+Non-Foya Archive,O60073,2025-10-01 17:52:00,NON-C00177,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,14.41,190.0,209.41
+Non-Foya Archive,O60072,2025-10-01 19:53:00,NON-C00030,WA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,7.0,28.36,500.0,460.36
+Non-Foya Archive,O60072,2025-10-01 21:05:00,NON-C00030,WA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,DROP15,0.15,7.0,28.36,500.0,460.36
+Non-Foya Archive,O60071,2025-10-01 22:35:00,NON-C00851,FL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,DROP15,0.15,7.0,26.6,345.0,326.85
+Non-Foya Archive,O60075,2025-10-02 09:07:00,NON-C00798,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,10.29,140.0,159.29
+Non-Foya Archive,O60076,2025-10-02 12:18:00,NON-C00883,FL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,28.19,300.0,328.19
+Non-Foya Archive,O60074,2025-10-02 15:24:00,NON-C00736,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,ARCHIVE20,0.2,5.0,13.84,185.0,166.84
+Non-Foya Archive,O60077,2025-10-02 15:33:00,NON-C00873,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,DROP15,0.15,7.0,11.0,140.0,137.0
+Non-Foya Archive,O60074,2025-10-02 16:20:00,NON-C00736,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,ARCHIVE20,0.2,5.0,13.84,185.0,166.84
+Non-Foya Archive,O60076,2025-10-02 20:52:00,NON-C00883,FL,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,28.19,300.0,328.19
+Non-Foya Archive,O60079,2025-10-03 09:23:00,NON-C00640,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,9.0,25.05,285.0,319.05
+Non-Foya Archive,O60078,2025-10-03 10:08:00,NON-C00720,FL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,0.0,33.11,465.0,498.11
+Non-Foya Archive,O60078,2025-10-03 14:44:00,NON-C00720,FL,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,33.11,465.0,498.11
+Non-Foya Archive,O60080,2025-10-03 16:01:00,NON-C00632,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,27.55,360.0,392.55
+Non-Foya Archive,O60080,2025-10-03 19:47:00,NON-C00632,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,27.55,360.0,392.55
+Non-Foya Archive,O60079,2025-10-03 21:32:00,NON-C00640,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,25.05,285.0,319.05
+Non-Foya Archive,O60080,2025-10-03 22:12:00,NON-C00632,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,27.55,360.0,392.55
+Non-Foya Archive,O60083,2025-10-04 09:14:00,NON-C00798,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,13.42,155.0,173.42
+Non-Foya Archive,O60081,2025-10-04 09:56:00,NON-C00469,WA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,9.28,140.0,156.28
+Non-Foya Archive,O60084,2025-10-04 10:24:00,NON-C00843,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,10.19,145.0,162.19
+Non-Foya Archive,O60082,2025-10-04 16:11:00,NON-C00082,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,11.18,155.0,166.18
+Non-Foya Archive,O60085,2025-10-04 22:45:00,NON-C00413,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.32,30.0,37.32
+Non-Foya Archive,O60087,2025-10-05 10:38:00,NON-C00499,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,FREESHIP,0.0,0.0,12.89,145.0,157.89
+Non-Foya Archive,O60086,2025-10-05 20:11:00,NON-C00329,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,9.0,2.27,30.0,41.27
+Non-Foya Archive,O60091,2025-10-06 09:27:00,NON-C00582,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,13.32,160.0,178.32
+Non-Foya Archive,O60088,2025-10-06 11:37:00,NON-C00632,IL,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,0.0,15.7,185.0,200.7
+Non-Foya Archive,O60090,2025-10-06 14:29:00,NON-C00586,NY,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,10.45,140.0,155.45
+Non-Foya Archive,O60089,2025-10-06 19:37:00,NON-C00431,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,11.38,140.0,151.38
+Non-Foya Archive,O60088,2025-10-06 20:34:00,NON-C00632,IL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,15.7,185.0,200.7
+Non-Foya Archive,O60093,2025-10-08 12:17:00,NON-C00851,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,9.69,140.0,156.69
+Non-Foya Archive,O60092,2025-10-08 17:29:00,NON-C00713,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,DROP15,0.15,5.0,3.87,60.0,59.87
+Non-Foya Archive,O60095,2025-10-09 12:39:00,NON-C00561,NJ,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,DROP15,0.15,7.0,1.84,30.0,34.34
+Non-Foya Archive,O60094,2025-10-09 14:45:00,NON-C00521,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,14.69,205.0,226.69
+Non-Foya Archive,O60096,2025-10-09 18:14:00,NON-C00202,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,12.23,155.0,167.23
+Non-Foya Archive,O60094,2025-10-09 22:39:00,NON-C00521,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,7.0,14.69,205.0,226.69
+Non-Foya Archive,O60098,2025-10-10 09:23:00,NON-C00416,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,9.83,145.0,159.83
+Non-Foya Archive,O60103,2025-10-10 12:40:00,NON-C00427,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.41,145.0,161.41
+Non-Foya Archive,O60101,2025-10-10 13:01:00,NON-C00743,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,2,ARCHIVE20,0.2,5.0,21.22,280.0,250.22
+Non-Foya Archive,O60099,2025-10-10 15:18:00,NON-C00711,FL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,24.05,300.0,329.05
+Non-Foya Archive,O60104,2025-10-10 15:57:00,NON-C00546,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,11.23,155.0,171.23
+Non-Foya Archive,O60100,2025-10-10 17:38:00,NON-C00271,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,9.0,12.68,140.0,161.68
+Non-Foya Archive,O60099,2025-10-10 19:11:00,NON-C00711,FL,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,24.05,300.0,329.05
+Non-Foya Archive,O60102,2025-10-10 19:39:00,NON-C00030,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,WELCOME10,0.1,5.0,11.64,190.0,187.64
+Non-Foya Archive,O60097,2025-10-10 20:22:00,NON-C00466,NY,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,11.16,140.0,156.16
+Non-Foya Archive,O60106,2025-10-11 11:48:00,NON-C00875,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,0.0,14.05,190.0,204.05
+Non-Foya Archive,O60108,2025-10-11 16:04:00,NON-C00117,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,11.88,140.0,158.88
+Non-Foya Archive,O60109,2025-10-11 18:32:00,NON-C00197,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,2,,0.0,5.0,25.09,290.0,320.09
+Non-Foya Archive,O60105,2025-10-11 20:06:00,NON-C00002,TX,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,12.14,140.0,159.14
+Non-Foya Archive,O60107,2025-10-11 21:00:00,NON-C00321,IL,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,10.25,145.0,160.25
+Non-Foya Archive,O60110,2025-10-12 17:48:00,NON-C00177,NY,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,9.87,145.0,154.87
+Non-Foya Archive,O60113,2025-10-13 10:23:00,NON-C00345,NJ,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,39.6,440.0,479.6
+Non-Foya Archive,O60112,2025-10-13 11:37:00,NON-C00776,TX,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,11.77,170.0,188.77
+Non-Foya Archive,O60113,2025-10-13 12:13:00,NON-C00345,NJ,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,39.6,440.0,479.6
+Non-Foya Archive,O60112,2025-10-13 15:32:00,NON-C00776,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,11.77,170.0,188.77
+Non-Foya Archive,O60111,2025-10-13 21:37:00,NON-C00403,NY,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,WELCOME10,0.1,7.0,8.81,110.0,114.81
+Non-Foya Archive,O60113,2025-10-13 22:24:00,NON-C00345,NJ,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,39.6,440.0,479.6
+Non-Foya Archive,O60114,2025-10-14 11:36:00,NON-C00284,FL,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,2,,0.0,7.0,72.75,905.0,984.75
+Non-Foya Archive,O60114,2025-10-14 20:51:00,NON-C00284,FL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,72.75,905.0,984.75
+Non-Foya Archive,O60115,2025-10-15 13:43:00,NON-C00194,NY,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,12.39,155.0,174.39
+Non-Foya Archive,O60122,2025-10-16 09:01:00,NON-C00108,NJ,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,13.98,155.0,173.98
+Non-Foya Archive,O60117,2025-10-16 11:58:00,NON-C00632,NY,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,FREESHIP,0.0,0.0,20.29,250.0,270.29
+Non-Foya Archive,O60118,2025-10-16 12:38:00,NON-C00589,NJ,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,0.0,13.07,140.0,153.07
+Non-Foya Archive,O60117,2025-10-16 13:18:00,NON-C00632,NY,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,FREESHIP,0.0,0.0,20.29,250.0,270.29
+Non-Foya Archive,O60121,2025-10-16 14:45:00,NON-C00236,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,12.38,140.0,159.38
+Non-Foya Archive,O60120,2025-10-16 15:03:00,NON-C00761,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,WELCOME10,0.1,5.0,10.57,155.0,155.07
+Non-Foya Archive,O60123,2025-10-16 15:52:00,NON-C00739,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,23.04,325.0,355.04
+Non-Foya Archive,O60119,2025-10-16 16:41:00,NON-C00519,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,12.38,140.0,157.38
+Non-Foya Archive,O60123,2025-10-16 19:42:00,NON-C00739,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,23.04,325.0,355.04
+Non-Foya Archive,O60123,2025-10-16 20:09:00,NON-C00739,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,23.04,325.0,355.04
+Non-Foya Archive,O60116,2025-10-16 21:46:00,NON-C00177,TX,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,7.0,14.12,190.0,182.62
+Non-Foya Archive,O60124,2025-10-17 09:24:00,NON-C00275,TX,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,29.49,375.0,409.49
+Non-Foya Archive,O60125,2025-10-17 18:18:00,NON-C00744,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.42,30.0,37.42
+Non-Foya Archive,O60126,2025-10-17 18:24:00,NON-C00674,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,12.57,160.0,177.57
+Non-Foya Archive,O60128,2025-10-18 09:00:00,NON-C00614,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.71,175.0,191.71
+Non-Foya Archive,O60128,2025-10-18 12:57:00,NON-C00614,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,11.71,175.0,191.71
+Non-Foya Archive,O60127,2025-10-18 19:06:00,NON-C00853,TX,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,0.0,34.4,375.0,409.4
+Non-Foya Archive,O60129,2025-10-19 10:37:00,NON-C00330,NY,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,5.0,23.06,255.0,283.06
+Non-Foya Archive,O60129,2025-10-19 21:55:00,NON-C00330,NY,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,23.06,255.0,283.06
+Non-Foya Archive,O60132,2025-10-20 09:14:00,NON-C00007,FL,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,10.71,140.0,155.71
+Non-Foya Archive,O60131,2025-10-20 17:05:00,NON-C00298,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,13.0,145.0,163.0
+Non-Foya Archive,O60130,2025-10-20 18:02:00,NON-C00049,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,5.0,4.25,60.0,69.25
+Non-Foya Archive,O60134,2025-10-21 10:12:00,NON-C00875,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,38.31,475.0,518.31
+Non-Foya Archive,O60133,2025-10-21 12:48:00,NON-C00033,NY,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,10.35,140.0,159.35
+Non-Foya Archive,O60134,2025-10-21 14:05:00,NON-C00875,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,5.0,38.31,475.0,518.31
+Non-Foya Archive,O60136,2025-10-21 14:46:00,NON-C00299,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,41.56,475.0,521.56
+Non-Foya Archive,O60136,2025-10-21 17:44:00,NON-C00299,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,5.0,41.56,475.0,521.56
+Non-Foya Archive,O60135,2025-10-21 19:47:00,NON-C00583,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,FREESHIP,0.0,0.0,27.55,300.0,327.55
+Non-Foya Archive,O60135,2025-10-21 22:42:00,NON-C00583,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,FREESHIP,0.0,0.0,27.55,300.0,327.55
+Non-Foya Archive,O60137,2025-10-22 09:31:00,NON-C00298,FL,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,35.48,395.0,437.48
+Non-Foya Archive,O60137,2025-10-22 09:55:00,NON-C00298,FL,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,35.48,395.0,437.48
+Non-Foya Archive,O60138,2025-10-22 12:29:00,NON-C00740,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,19.55,300.0,324.55
+Non-Foya Archive,O60138,2025-10-22 12:33:00,NON-C00740,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,19.55,300.0,324.55
+Non-Foya Archive,O60137,2025-10-22 16:21:00,NON-C00298,FL,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,35.48,395.0,437.48
+Non-Foya Archive,O60140,2025-10-23 12:50:00,NON-C00078,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,9.0,9.47,140.0,158.47
+Non-Foya Archive,O60139,2025-10-23 15:04:00,NON-C00298,TX,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,35.85,445.0,485.85
+Non-Foya Archive,O60141,2025-10-23 17:14:00,NON-C00474,TX,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,26.05,290.0,325.05
+Non-Foya Archive,O60139,2025-10-23 18:40:00,NON-C00298,TX,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,2,,0.0,5.0,35.85,445.0,485.85
+Non-Foya Archive,O60141,2025-10-23 19:58:00,NON-C00474,TX,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,26.05,290.0,325.05
+Non-Foya Archive,O60142,2025-10-24 13:07:00,NON-C00831,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,10.49,145.0,162.49
+Non-Foya Archive,O60145,2025-10-24 14:22:00,NON-C00015,CA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,9.0,23.23,255.0,287.23
+Non-Foya Archive,O60145,2025-10-24 19:30:00,NON-C00015,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,23.23,255.0,287.23
+Non-Foya Archive,O60144,2025-10-24 19:35:00,NON-C00698,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,FREESHIP,0.0,0.0,11.5,155.0,166.5
+Non-Foya Archive,O60143,2025-10-24 21:33:00,NON-C00272,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,11.87,155.0,173.87
+Non-Foya Archive,O60147,2025-10-25 10:49:00,NON-C00712,FL,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,5.0,43.42,490.0,538.42
+Non-Foya Archive,O60147,2025-10-25 14:18:00,NON-C00712,FL,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,2,,0.0,5.0,43.42,490.0,538.42
+Non-Foya Archive,O60146,2025-10-25 16:38:00,NON-C00194,NJ,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,9.0,14.65,160.0,183.65
+Non-Foya Archive,O60148,2025-10-26 12:13:00,NON-C00840,WA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,11.09,145.0,163.09
+Non-Foya Archive,O60149,2025-10-27 11:05:00,NON-C00813,FL,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,13.89,185.0,205.89
+Non-Foya Archive,O60149,2025-10-27 17:12:00,NON-C00813,FL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,13.89,185.0,205.89
+Non-Foya Archive,O60151,2025-10-28 14:18:00,NON-C00403,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,13.29,140.0,153.29
+Non-Foya Archive,O60150,2025-10-28 20:21:00,NON-C00425,FL,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,17.43,250.0,274.43
+Non-Foya Archive,O60150,2025-10-28 21:36:00,NON-C00425,FL,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,17.43,250.0,274.43
+Non-Foya Archive,O60152,2025-10-29 11:51:00,NON-C00556,FL,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,20.92,280.0,305.92
+Non-Foya Archive,O60152,2025-10-29 17:00:00,NON-C00556,FL,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,20.92,280.0,305.92
+Non-Foya Archive,O60153,2025-10-29 19:17:00,NON-C00247,IL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,FREESHIP,0.0,0.0,14.53,160.0,174.53
+Non-Foya Archive,O60154,2025-10-30 12:29:00,NON-C00642,NJ,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,38.69,565.0,610.69
+Non-Foya Archive,O60154,2025-10-30 16:18:00,NON-C00642,NJ,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,38.69,565.0,610.69
+Non-Foya Archive,O60155,2025-10-30 18:15:00,NON-C00894,NY,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,11.29,140.0,156.29
+Non-Foya Archive,O60158,2025-10-31 09:29:00,NON-C00394,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,14.8,170.0,189.8
+Non-Foya Archive,O60157,2025-10-31 09:30:00,NON-C00275,FL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,ARCHIVE20,0.2,5.0,22.25,295.0,263.25
+Non-Foya Archive,O60158,2025-10-31 12:19:00,NON-C00394,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,14.8,170.0,189.8
+Non-Foya Archive,O60157,2025-10-31 12:38:00,NON-C00275,FL,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,5.0,22.25,295.0,263.25
+Non-Foya Archive,O60156,2025-10-31 18:12:00,NON-C00522,WA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,2,,0.0,5.0,35.14,535.0,575.14
+Non-Foya Archive,O60156,2025-10-31 20:41:00,NON-C00522,WA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,35.14,535.0,575.14
+Non-Foya Archive,O60159,2025-11-01 12:37:00,NON-C00803,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,25.9,285.0,315.9
+Non-Foya Archive,O60160,2025-11-01 13:34:00,NON-C00135,NY,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,10.81,145.0,162.81
+Non-Foya Archive,O60159,2025-11-01 18:30:00,NON-C00803,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,25.9,285.0,315.9
+Non-Foya Archive,O60161,2025-11-02 09:14:00,NON-C00465,IL,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,63.89,675.0,743.89
+Non-Foya Archive,O60166,2025-11-02 09:59:00,NON-C00094,WA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.77,30.0,37.77
+Non-Foya Archive,O60161,2025-11-02 10:08:00,NON-C00465,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,63.89,675.0,743.89
+Non-Foya Archive,O60165,2025-11-02 11:05:00,NON-C00284,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,27.1,375.0,407.1
+Non-Foya Archive,O60162,2025-11-02 11:21:00,NON-C00008,NY,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,7.0,24.67,310.0,341.67
+Non-Foya Archive,O60161,2025-11-02 12:48:00,NON-C00465,IL,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,63.89,675.0,743.89
+Non-Foya Archive,O60164,2025-11-02 12:51:00,NON-C00284,NJ,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,5.0,20.14,265.0,290.14
+Non-Foya Archive,O60163,2025-11-02 12:56:00,NON-C00232,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,9.0,14.04,190.0,213.04
+Non-Foya Archive,O60164,2025-11-02 16:54:00,NON-C00284,NJ,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,20.14,265.0,290.14
+Non-Foya Archive,O60169,2025-11-03 14:58:00,NON-C00105,IL,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,29.91,375.0,411.91
+Non-Foya Archive,O60167,2025-11-03 15:41:00,NON-C00007,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,5.0,45.21,630.0,680.21
+Non-Foya Archive,O60168,2025-11-03 19:43:00,NON-C00810,CA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,9.0,7.18,110.0,126.18
+Non-Foya Archive,O60167,2025-11-03 21:32:00,NON-C00007,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,2,,0.0,5.0,45.21,630.0,680.21
+Non-Foya Archive,O60172,2025-11-04 10:32:00,NON-C00598,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,5.0,15.67,300.0,260.67
+Non-Foya Archive,O60170,2025-11-04 11:44:00,NON-C00393,Other,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,FREESHIP,0.0,0.0,8.41,110.0,118.41
+Non-Foya Archive,O60171,2025-11-04 13:00:00,NON-C00172,IL,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,9.0,12.48,190.0,211.48
+Non-Foya Archive,O60173,2025-11-04 15:05:00,NON-C00114,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,WELCOME10,0.1,5.0,11.83,140.0,142.83
+Non-Foya Archive,O60173,2025-11-04 18:24:00,NON-C00114,CA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,WELCOME10,0.1,5.0,11.83,140.0,142.83
+Non-Foya Archive,O60172,2025-11-04 19:05:00,NON-C00598,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,ARCHIVE20,0.2,5.0,15.67,300.0,260.67
+Non-Foya Archive,O60175,2025-11-04 19:14:00,NON-C00381,NJ,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,WELCOME10,0.1,5.0,12.8,190.0,188.8
+Non-Foya Archive,O60174,2025-11-04 22:00:00,NON-C00302,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,10.32,140.0,157.32
+Non-Foya Archive,O60176,2025-11-05 09:31:00,NON-C00647,WA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,12.74,145.0,162.74
+Non-Foya Archive,O60180,2025-11-05 12:11:00,NON-C00715,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,ARCHIVE20,0.2,0.0,2.07,30.0,26.07
+Non-Foya Archive,O60178,2025-11-05 16:02:00,NON-C00252,WA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,26.65,290.0,325.65
+Non-Foya Archive,O60178,2025-11-05 16:16:00,NON-C00252,WA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,26.65,290.0,325.65
+Non-Foya Archive,O60177,2025-11-05 17:03:00,NON-C00632,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,27.56,330.0,362.56
+Non-Foya Archive,O60177,2025-11-05 17:42:00,NON-C00632,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,27.56,330.0,362.56
+Non-Foya Archive,O60177,2025-11-05 19:00:00,NON-C00632,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,27.56,330.0,362.56
+Non-Foya Archive,O60179,2025-11-05 19:15:00,NON-C00662,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,26.89,375.0,408.89
+Non-Foya Archive,O60182,2025-11-06 13:59:00,NON-C00698,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,41.36,470.0,511.36
+Non-Foya Archive,O60181,2025-11-06 15:11:00,NON-C00338,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,9.0,27.9,295.0,331.9
+Non-Foya Archive,O60182,2025-11-06 18:59:00,NON-C00698,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,0.0,41.36,470.0,511.36
+Non-Foya Archive,O60182,2025-11-06 20:11:00,NON-C00698,TX,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,0.0,41.36,470.0,511.36
+Non-Foya Archive,O60181,2025-11-06 21:17:00,NON-C00338,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,27.9,295.0,331.9
+Non-Foya Archive,O60186,2025-11-07 12:28:00,NON-C00506,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,FREESHIP,0.0,0.0,19.89,285.0,304.89
+Non-Foya Archive,O60184,2025-11-07 12:40:00,NON-C00216,TX,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,29.57,405.0,439.57
+Non-Foya Archive,O60183,2025-11-07 13:46:00,NON-C00137,NY,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,15.73,205.0,227.73
+Non-Foya Archive,O60184,2025-11-07 14:05:00,NON-C00216,TX,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,29.57,405.0,439.57
+Non-Foya Archive,O60186,2025-11-07 14:41:00,NON-C00506,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,FREESHIP,0.0,0.0,19.89,285.0,304.89
+Non-Foya Archive,O60185,2025-11-07 19:50:00,NON-C00234,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,12.36,160.0,177.36
+Non-Foya Archive,O60183,2025-11-07 21:05:00,NON-C00137,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,7.0,15.73,205.0,227.73
+Non-Foya Archive,O60190,2025-11-08 09:01:00,NON-C00209,TX,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.63,145.0,161.63
+Non-Foya Archive,O60189,2025-11-08 09:38:00,NON-C00552,NJ,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,52.58,565.0,624.58
+Non-Foya Archive,O60189,2025-11-08 09:55:00,NON-C00552,NJ,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,52.58,565.0,624.58
+Non-Foya Archive,O60187,2025-11-08 11:44:00,NON-C00832,FL,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,21.3,305.0,335.3
+Non-Foya Archive,O60187,2025-11-08 14:41:00,NON-C00832,FL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,9.0,21.3,305.0,335.3
+Non-Foya Archive,O60188,2025-11-08 15:11:00,NON-C00298,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,11.26,140.0,156.26
+Non-Foya Archive,O60191,2025-11-08 20:22:00,NON-C00062,WA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,7.0,8.0,110.0,125.0
+Non-Foya Archive,O60192,2025-11-08 22:59:00,NON-C00224,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,WELCOME10,0.1,7.0,10.44,140.0,143.44
+Non-Foya Archive,O60195,2025-11-09 16:53:00,NON-C00219,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,7.0,2.14,30.0,39.14
+Non-Foya Archive,O60194,2025-11-09 17:32:00,NON-C00101,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,2,,0.0,7.0,46.73,600.0,653.73
+Non-Foya Archive,O60194,2025-11-09 18:43:00,NON-C00101,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,7.0,46.73,600.0,653.73
+Non-Foya Archive,O60193,2025-11-09 20:03:00,NON-C00814,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,9.19,140.0,156.19
+Non-Foya Archive,O60202,2025-11-10 11:49:00,NON-C00842,CA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,0.0,38.13,575.0,613.13
+Non-Foya Archive,O60197,2025-11-10 13:13:00,NON-C00774,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,13.29,140.0,160.29
+Non-Foya Archive,O60198,2025-11-10 13:27:00,NON-C00284,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,9.0,13.84,155.0,177.84
+Non-Foya Archive,O60199,2025-11-10 14:00:00,NON-C00373,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,43.63,515.0,563.63
+Non-Foya Archive,O60202,2025-11-10 14:33:00,NON-C00842,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,38.13,575.0,613.13
+Non-Foya Archive,O60201,2025-11-10 14:42:00,NON-C00769,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,DROP15,0.15,0.0,62.08,795.0,737.83
+Non-Foya Archive,O60201,2025-11-10 14:57:00,NON-C00769,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,2,DROP15,0.15,0.0,62.08,795.0,737.83
+Non-Foya Archive,O60201,2025-11-10 16:22:00,NON-C00769,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,DROP15,0.15,0.0,62.08,795.0,737.83
+Non-Foya Archive,O60196,2025-11-10 17:12:00,NON-C00066,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,5.0,13.6,190.0,208.6
+Non-Foya Archive,O60202,2025-11-10 17:38:00,NON-C00842,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,0.0,38.13,575.0,613.13
+Non-Foya Archive,O60199,2025-11-10 19:11:00,NON-C00373,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,43.63,515.0,563.63
+Non-Foya Archive,O60200,2025-11-10 20:37:00,NON-C00380,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,WELCOME10,0.1,5.0,12.98,155.0,157.48
+Non-Foya Archive,O60204,2025-11-11 09:51:00,NON-C00029,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,41.99,455.0,501.99
+Non-Foya Archive,O60205,2025-11-11 10:21:00,NON-C00034,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.19,145.0,161.19
+Non-Foya Archive,O60208,2025-11-11 10:23:00,NON-C00278,IL,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,7.0,13.58,160.0,180.58
+Non-Foya Archive,O60204,2025-11-11 10:48:00,NON-C00029,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,41.99,455.0,501.99
+Non-Foya Archive,O60206,2025-11-11 10:52:00,NON-C00632,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,DROP15,0.15,5.0,31.23,455.0,422.98
+Non-Foya Archive,O60209,2025-11-11 11:04:00,NON-C00497,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,11.3,145.0,161.3
+Non-Foya Archive,O60206,2025-11-11 11:58:00,NON-C00632,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,DROP15,0.15,5.0,31.23,455.0,422.98
+Non-Foya Archive,O60203,2025-11-11 12:35:00,NON-C00703,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,12.68,160.0,177.68
+Non-Foya Archive,O60204,2025-11-11 13:27:00,NON-C00029,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,41.99,455.0,501.99
+Non-Foya Archive,O60207,2025-11-11 16:26:00,NON-C00267,CA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,ARCHIVE20,0.2,5.0,9.48,160.0,142.48
+Non-Foya Archive,O60206,2025-11-11 16:35:00,NON-C00632,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,2,DROP15,0.15,5.0,31.23,455.0,422.98
+Non-Foya Archive,O60210,2025-11-12 09:19:00,NON-C00750,NJ,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,2,,0.0,5.0,26.89,340.0,371.89
+Non-Foya Archive,O60215,2025-11-12 09:51:00,NON-C00617,WA,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,7.0,52.71,715.0,774.71
+Non-Foya Archive,O60215,2025-11-12 10:28:00,NON-C00617,WA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,52.71,715.0,774.71
+Non-Foya Archive,O60213,2025-11-12 11:20:00,NON-C00137,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,38.76,520.0,565.76
+Non-Foya Archive,O60218,2025-11-12 12:28:00,NON-C00571,CA,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,WELCOME10,0.1,5.0,11.27,145.0,146.77
+Non-Foya Archive,O60217,2025-11-12 13:04:00,NON-C00504,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,26.22,280.0,311.22
+Non-Foya Archive,O60213,2025-11-12 13:27:00,NON-C00137,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,38.76,520.0,565.76
+Non-Foya Archive,O60222,2025-11-12 14:04:00,NON-C00088,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,43.33,650.0,700.33
+Non-Foya Archive,O60211,2025-11-12 14:16:00,NON-C00820,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,15.27,170.0,190.27
+Non-Foya Archive,O60222,2025-11-12 15:24:00,NON-C00088,CA,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,7.0,43.33,650.0,700.33
+Non-Foya Archive,O60222,2025-11-12 16:12:00,NON-C00088,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,43.33,650.0,700.33
+Non-Foya Archive,O60212,2025-11-12 16:14:00,NON-C00873,IL,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,FREESHIP,0.0,0.0,26.6,375.0,401.6
+Non-Foya Archive,O60217,2025-11-12 16:30:00,NON-C00504,Other,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,26.22,280.0,311.22
+Non-Foya Archive,O60221,2025-11-12 16:40:00,NON-C00749,NJ,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,7.0,14.02,170.0,191.02
+Non-Foya Archive,O60214,2025-11-12 17:10:00,NON-C00214,FL,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,26.03,300.0,331.03
+Non-Foya Archive,O60220,2025-11-12 18:08:00,NON-C00698,WA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,2,WELCOME10,0.1,9.0,19.01,290.0,289.01
+Non-Foya Archive,O60216,2025-11-12 18:24:00,NON-C00394,Other,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,0.0,12.13,145.0,157.13
+Non-Foya Archive,O60214,2025-11-12 20:19:00,NON-C00214,FL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,26.03,300.0,331.03
+Non-Foya Archive,O60219,2025-11-12 21:33:00,NON-C00575,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,12.15,155.0,172.15
+Non-Foya Archive,O60211,2025-11-12 22:44:00,NON-C00820,NY,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,,0.0,5.0,15.27,170.0,190.27
+Non-Foya Archive,O60225,2025-11-13 11:53:00,NON-C00216,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,ARCHIVE20,0.2,0.0,19.83,315.0,271.83
+Non-Foya Archive,O60228,2025-11-13 13:35:00,NON-C00649,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,9.0,16.2,190.0,215.2
+Non-Foya Archive,O60224,2025-11-13 13:36:00,NON-C00712,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,13.31,155.0,173.31
+Non-Foya Archive,O60227,2025-11-13 14:03:00,NON-C00806,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,20.93,270.0,295.93
+Non-Foya Archive,O60226,2025-11-13 14:21:00,NON-C00575,NY,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,2,,0.0,7.0,24.69,320.0,351.69
+Non-Foya Archive,O60223,2025-11-13 17:28:00,NON-C00020,FL,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,FREESHIP,0.0,0.0,13.9,170.0,183.9
+Non-Foya Archive,O60225,2025-11-13 19:30:00,NON-C00216,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,ARCHIVE20,0.2,0.0,19.83,315.0,271.83
+Non-Foya Archive,O60227,2025-11-13 20:05:00,NON-C00806,TX,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,5.0,20.93,270.0,295.93
+Non-Foya Archive,O60235,2025-11-14 09:18:00,NON-C00634,WA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,9.0,11.37,160.0,180.37
+Non-Foya Archive,O60232,2025-11-14 11:51:00,NON-C00534,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,22.24,335.0,364.24
+Non-Foya Archive,O60229,2025-11-14 12:00:00,NON-C00873,IL,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,13.01,145.0,163.01
+Non-Foya Archive,O60234,2025-11-14 12:01:00,NON-C00833,NY,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,WELCOME10,0.1,0.0,21.8,295.0,287.3
+Non-Foya Archive,O60232,2025-11-14 16:53:00,NON-C00534,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,22.24,335.0,364.24
+Non-Foya Archive,O60230,2025-11-14 19:05:00,NON-C00674,FL,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,9.0,7.25,85.0,101.25
+Non-Foya Archive,O60231,2025-11-14 19:12:00,NON-C00780,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,9.0,2.38,30.0,41.38
+Non-Foya Archive,O60234,2025-11-14 19:15:00,NON-C00833,NY,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,WELCOME10,0.1,0.0,21.8,295.0,287.3
+Non-Foya Archive,O60233,2025-11-14 19:39:00,NON-C00832,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,2,,0.0,5.0,24.66,290.0,319.66
+Non-Foya Archive,O60245,2025-11-15 10:08:00,NON-C00216,TX,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,7.0,29.26,375.0,411.26
+Non-Foya Archive,O60239,2025-11-15 10:40:00,NON-C00702,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,7.0,21.21,280.0,252.21
+Non-Foya Archive,O60238,2025-11-15 10:42:00,NON-C00190,FL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,11.92,155.0,166.92
+Non-Foya Archive,O60237,2025-11-15 14:53:00,NON-C00108,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,13.34,155.0,173.34
+Non-Foya Archive,O60239,2025-11-15 16:32:00,NON-C00702,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,7.0,21.21,280.0,252.21
+Non-Foya Archive,O60240,2025-11-15 17:45:00,NON-C00355,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,5.0,10.62,140.0,127.62
+Non-Foya Archive,O60244,2025-11-15 17:53:00,NON-C00307,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,DROP15,0.15,0.0,8.4,140.0,127.4
+Non-Foya Archive,O60241,2025-11-15 17:54:00,NON-C00360,NJ,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,DROP15,0.15,9.0,8.22,140.0,136.22
+Non-Foya Archive,O60242,2025-11-15 20:29:00,NON-C00413,NY,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,9.79,140.0,156.79
+Non-Foya Archive,O60243,2025-11-15 21:45:00,NON-C00250,Other,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,7.0,6.12,85.0,98.12
+Non-Foya Archive,O60246,2025-11-15 22:21:00,NON-C00659,WA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,DROP15,0.15,5.0,14.76,190.0,181.26
+Non-Foya Archive,O60236,2025-11-15 22:57:00,NON-C00732,NJ,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,13.24,145.0,163.24
+Non-Foya Archive,O60248,2025-11-16 09:19:00,NON-C00448,TX,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,DROP15,0.15,0.0,10.03,140.0,129.03
+Non-Foya Archive,O60249,2025-11-16 12:27:00,NON-C00345,WA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,23.86,330.0,360.86
+Non-Foya Archive,O60247,2025-11-16 13:10:00,NON-C00771,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,9.0,11.24,140.0,160.24
+Non-Foya Archive,O60249,2025-11-16 14:37:00,NON-C00345,WA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,23.86,330.0,360.86
+Non-Foya Archive,O60250,2025-11-16 19:08:00,NON-C00787,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,2,,0.0,5.0,20.23,280.0,305.23
+Non-Foya Archive,O60251,2025-11-16 21:00:00,NON-C00798,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,13.64,190.0,210.64
+Non-Foya Archive,O60252,2025-11-17 11:08:00,NON-C00195,NY,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,WELCOME10,0.1,9.0,9.6,140.0,144.6
+Non-Foya Archive,O60255,2025-11-17 11:28:00,NON-C00724,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,5.0,32.58,370.0,407.58
+Non-Foya Archive,O60254,2025-11-17 12:54:00,NON-C00239,Other,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,ARCHIVE20,0.2,9.0,10.4,145.0,135.4
+Non-Foya Archive,O60253,2025-11-17 17:29:00,NON-C00090,NY,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,26.28,295.0,328.28
+Non-Foya Archive,O60256,2025-11-17 17:49:00,NON-C00037,NJ,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,12.69,155.0,172.69
+Non-Foya Archive,O60253,2025-11-17 19:51:00,NON-C00090,NY,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,,0.0,7.0,26.28,295.0,328.28
+Non-Foya Archive,O60255,2025-11-17 20:40:00,NON-C00724,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,2,,0.0,5.0,32.58,370.0,407.58
+Non-Foya Archive,O60257,2025-11-17 21:45:00,NON-C00647,IL,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,2,WELCOME10,0.1,5.0,22.02,290.0,288.02
+Non-Foya Archive,O60259,2025-11-18 12:15:00,NON-C00586,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,11.09,140.0,156.09
+Non-Foya Archive,O60260,2025-11-18 15:01:00,NON-C00185,TX,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,,0.0,7.0,40.02,445.0,492.02
+Non-Foya Archive,O60258,2025-11-18 18:28:00,NON-C00879,NY,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,2,,0.0,7.0,30.71,340.0,377.71
+Non-Foya Archive,O60260,2025-11-18 19:54:00,NON-C00185,TX,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,7.0,40.02,445.0,492.02
+Non-Foya Archive,O60260,2025-11-18 20:12:00,NON-C00185,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,7.0,40.02,445.0,492.02
+Non-Foya Archive,O60261,2025-11-19 14:43:00,NON-C00242,NY,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,5.0,17.33,225.0,247.33
+Non-Foya Archive,O60261,2025-11-19 19:00:00,NON-C00242,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,17.33,225.0,247.33
+Non-Foya Archive,O60262,2025-11-19 19:18:00,NON-C00871,FL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,12.82,155.0,174.82
+Non-Foya Archive,O60263,2025-11-20 10:11:00,NON-C00872,TX,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,11.91,155.0,166.91
+Non-Foya Archive,O60264,2025-11-20 14:16:00,NON-C00365,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,WELCOME10,0.1,7.0,10.37,155.0,156.87
+Non-Foya Archive,O60265,2025-11-20 15:46:00,NON-C00150,Other,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,FREESHIP,0.0,0.0,12.59,145.0,157.59
+Non-Foya Archive,O60269,2025-11-21 09:50:00,NON-C00180,NY,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,9.0,25.8,290.0,324.8
+Non-Foya Archive,O60269,2025-11-21 10:47:00,NON-C00180,NY,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,9.0,25.8,290.0,324.8
+Non-Foya Archive,O60267,2025-11-21 12:44:00,NON-C00824,WA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,FREESHIP,0.0,0.0,12.6,175.0,187.6
+Non-Foya Archive,O60268,2025-11-21 12:54:00,NON-C00077,TX,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,28.09,325.0,353.09
+Non-Foya Archive,O60266,2025-11-21 13:54:00,NON-C00651,WA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,WELCOME10,0.1,9.0,8.79,110.0,116.79
+Non-Foya Archive,O60270,2025-11-21 15:02:00,NON-C00755,NJ,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,2,,0.0,7.0,18.42,280.0,305.42
+Non-Foya Archive,O60267,2025-11-21 17:19:00,NON-C00824,WA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,FREESHIP,0.0,0.0,12.6,175.0,187.6
+Non-Foya Archive,O60268,2025-11-21 21:44:00,NON-C00077,TX,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,0.0,28.09,325.0,353.09
+Non-Foya Archive,O60273,2025-11-22 09:55:00,NON-C00875,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,9.0,12.79,140.0,161.79
+Non-Foya Archive,O60272,2025-11-22 12:15:00,NON-C00649,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,56.35,820.0,881.35
+Non-Foya Archive,O60272,2025-11-22 13:48:00,NON-C00649,CA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,56.35,820.0,881.35
+Non-Foya Archive,O60274,2025-11-22 16:41:00,NON-C00053,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,11.99,140.0,158.99
+Non-Foya Archive,O60271,2025-11-22 18:42:00,NON-C00506,CA,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,11.77,145.0,161.77
+Non-Foya Archive,O60275,2025-11-22 21:02:00,NON-C00550,NY,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,7.0,31.52,450.0,488.52
+Non-Foya Archive,O60272,2025-11-22 21:03:00,NON-C00649,CA,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,2,,0.0,5.0,56.35,820.0,881.35
+Non-Foya Archive,O60275,2025-11-22 22:55:00,NON-C00550,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,31.52,450.0,488.52
+Non-Foya Archive,O60277,2025-11-23 09:49:00,NON-C00716,CA,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,2,,0.0,5.0,35.82,430.0,470.82
+Non-Foya Archive,O60276,2025-11-23 10:10:00,NON-C00279,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,14.49,190.0,211.49
+Non-Foya Archive,O60277,2025-11-23 12:21:00,NON-C00716,CA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,35.82,430.0,470.82
+Non-Foya Archive,O60280,2025-11-24 09:44:00,NON-C00284,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,2,,0.0,9.0,22.43,290.0,321.43
+Non-Foya Archive,O60278,2025-11-24 15:32:00,NON-C00275,NY,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,23.04,335.0,365.04
+Non-Foya Archive,O60279,2025-11-24 17:24:00,NON-C00561,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,12.95,155.0,172.95
+Non-Foya Archive,O60278,2025-11-24 22:32:00,NON-C00275,NY,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,23.04,335.0,365.04
+Non-Foya Archive,O60282,2025-11-25 21:31:00,NON-C00190,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.41,30.0,37.41
+Non-Foya Archive,O60281,2025-11-25 22:08:00,NON-C00166,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,2,DROP15,0.15,5.0,18.46,290.0,269.96
+Non-Foya Archive,O60284,2025-11-27 18:25:00,NON-C00495,NY,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,0.0,28.01,375.0,403.01
+Non-Foya Archive,O60283,2025-11-27 22:14:00,NON-C00145,TX,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,DROP15,0.15,5.0,9.21,145.0,137.46
+Non-Foya Archive,O60287,2025-11-28 11:26:00,NON-C00090,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,11.0,160.0,176.0
+Non-Foya Archive,O60285,2025-11-28 11:36:00,NON-C00374,CA,NON-2001,3 Pack Sanforized Cotton Blank,Basics,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,35.02,520.0,560.02
+Non-Foya Archive,O60285,2025-11-28 12:56:00,NON-C00374,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,35.02,520.0,560.02
+Non-Foya Archive,O60286,2025-11-28 13:42:00,NON-C00759,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,7.0,26.63,310.0,343.63
+Non-Foya Archive,O60288,2025-11-28 19:32:00,NON-C00331,Other,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,10.36,140.0,155.36
+Non-Foya Archive,O60292,2025-11-29 09:09:00,NON-C00504,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,29.1,310.0,346.1
+Non-Foya Archive,O60290,2025-11-29 16:58:00,NON-C00460,Other,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,10.6,145.0,160.6
+Non-Foya Archive,O60291,2025-11-29 17:58:00,NON-C00567,Other,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.54,30.0,37.54
+Non-Foya Archive,O60292,2025-11-29 20:06:00,NON-C00504,TX,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,7.0,29.1,310.0,346.1
+Non-Foya Archive,O60289,2025-11-29 20:19:00,NON-C00580,TX,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,2,,0.0,7.0,24.27,290.0,321.27
+Non-Foya Archive,O60293,2025-11-30 12:07:00,NON-C00280,NY,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,2.25,30.0,37.25
+Non-Foya Archive,O60295,2025-11-30 17:24:00,NON-C00333,TX,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,10.66,145.0,160.66
+Non-Foya Archive,O60294,2025-11-30 18:11:00,NON-C00536,Other,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,0.0,13.6,145.0,158.6
+Non-Foya Archive,O60297,2025-12-01 10:17:00,NON-C00128,CA,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,5.0,70.61,745.0,820.61
+Non-Foya Archive,O60297,2025-12-01 13:07:00,NON-C00128,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,70.61,745.0,820.61
+Non-Foya Archive,O60297,2025-12-01 13:14:00,NON-C00128,CA,NON-2000,Basic Black T,Basics,Core Collection,2025-09-18,30.0,1,,0.0,5.0,70.61,745.0,820.61
+Non-Foya Archive,O60296,2025-12-01 18:23:00,NON-C00064,Other,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,7.0,26.4,340.0,373.4
+Non-Foya Archive,O60298,2025-12-01 18:57:00,NON-C00677,FL,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,0.0,9.37,140.0,149.37
+Non-Foya Archive,O60299,2025-12-02 13:20:00,NON-C00077,CA,NON-2011,Fisher Short (Cream),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,10.78,145.0,160.78
+Non-Foya Archive,O60302,2025-12-02 14:12:00,NON-C00413,NJ,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,9.89,140.0,154.89
+Non-Foya Archive,O60301,2025-12-02 17:05:00,NON-C00512,CA,NON-2005,V2 Basic Denim (Navy),Denim,Core Collection,2025-09-18,140.0,1,,0.0,5.0,45.12,515.0,565.12
+Non-Foya Archive,O60300,2025-12-02 19:05:00,NON-C00599,TX,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,2,,0.0,0.0,25.36,380.0,405.36
+Non-Foya Archive,O60301,2025-12-02 22:55:00,NON-C00512,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,5.0,45.12,515.0,565.12
+Non-Foya Archive,O60308,2025-12-03 10:07:00,NON-C00345,FL,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,5.0,24.7,340.0,369.7
+Non-Foya Archive,O60306,2025-12-03 11:09:00,NON-C00142,WA,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,WELCOME10,0.1,0.0,10.23,160.0,154.23
+Non-Foya Archive,O60304,2025-12-03 12:49:00,NON-C00441,FL,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,9.0,13.05,140.0,162.05
+Non-Foya Archive,O60307,2025-12-03 13:42:00,NON-C00521,Other,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,5.0,22.5,305.0,332.5
+Non-Foya Archive,O60307,2025-12-03 15:11:00,NON-C00521,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,22.5,305.0,332.5
+Non-Foya Archive,O60303,2025-12-03 16:10:00,NON-C00340,WA,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,14.49,155.0,176.49
+Non-Foya Archive,O60305,2025-12-03 17:54:00,NON-C00289,Other,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,7.0,12.45,145.0,164.45
+Non-Foya Archive,O60309,2025-12-04 18:21:00,NON-C00140,FL,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,5.0,13.5,170.0,188.5
+Non-Foya Archive,O60310,2025-12-05 14:37:00,NON-C00308,IL,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,,0.0,7.0,26.75,310.0,343.75
+Non-Foya Archive,O60311,2025-12-05 14:51:00,NON-C00130,Other,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,1,,0.0,0.0,30.44,375.0,405.44
+Non-Foya Archive,O60310,2025-12-05 16:54:00,NON-C00308,IL,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,7.0,26.75,310.0,343.75
+Non-Foya Archive,O60312,2025-12-06 18:04:00,NON-C00848,IL,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,10.92,155.0,165.92
+Non-Foya Archive,O60313,2025-12-07 16:50:00,NON-C00246,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,0.0,12.21,155.0,167.21
+Non-Foya Archive,O60314,2025-12-07 22:16:00,NON-C00029,Other,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,7.0,9.64,140.0,128.64
+Non-Foya Archive,O60315,2025-12-08 16:34:00,NON-C00632,CA,NON-2007,Indigo Raw Denim Balloon Jean,Denim,Archive Sale,2025-11-12,170.0,1,,0.0,5.0,13.43,170.0,188.43
+Non-Foya Archive,O60316,2025-12-08 20:53:00,NON-C00596,FL,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,2,,0.0,5.0,53.93,680.0,738.93
+Non-Foya Archive,O60317,2025-12-09 17:26:00,NON-C00055,CA,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,7.0,7.33,140.0,126.33
+Non-Foya Archive,O60318,2025-12-10 12:53:00,NON-C00649,CA,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,,0.0,7.0,13.23,140.0,160.23
+Non-Foya Archive,O60320,2025-12-10 13:23:00,NON-C00435,CA,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,9.0,5.74,85.0,99.74
+Non-Foya Archive,O60319,2025-12-10 18:42:00,NON-C00177,Other,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,WELCOME10,0.1,0.0,10.67,140.0,136.67
+Non-Foya Archive,O60323,2025-12-11 13:09:00,NON-C00345,NY,NON-2012,Fisher Short (Green),Shorts,Core Collection,2025-09-18,140.0,1,,0.0,5.0,10.14,140.0,155.14
+Non-Foya Archive,O60321,2025-12-11 21:06:00,NON-C00507,Other,NON-2008,Black Raw Denim Balloon Jean,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,11.36,155.0,171.36
+Non-Foya Archive,O60322,2025-12-11 22:43:00,NON-C00570,CA,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,5.0,13.54,145.0,163.54
+Non-Foya Archive,O60326,2025-12-12 10:06:00,NON-C00761,Other,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,26.17,345.0,378.17
+Non-Foya Archive,O60325,2025-12-12 14:43:00,NON-C00171,NY,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,7.0,11.15,140.0,158.15
+Non-Foya Archive,O60324,2025-12-12 15:14:00,NON-C00889,CA,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,5.0,7.6,85.0,97.6
+Non-Foya Archive,O60326,2025-12-12 16:13:00,NON-C00761,Other,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,7.0,26.17,345.0,378.17
+Non-Foya Archive,O60327,2025-12-12 21:52:00,NON-C00209,WA,NON-2003,Rugby Sweatshirt,Tops,Core Collection,2025-09-18,110.0,1,,0.0,9.0,8.14,110.0,127.14
+Non-Foya Archive,O60328,2025-12-13 10:28:00,NON-C00857,CA,NON-2016,Non-Foya / Pennon 1.0 High,Footwear,Core Collection,2025-09-18,375.0,2,,0.0,5.0,62.65,905.0,972.65
+Non-Foya Archive,O60328,2025-12-13 22:55:00,NON-C00857,CA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,,0.0,5.0,62.65,905.0,972.65
+Non-Foya Archive,O60329,2025-12-14 11:34:00,NON-C00623,WA,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,2,DROP15,0.15,5.0,25.3,435.0,400.05
+Non-Foya Archive,O60331,2025-12-14 12:08:00,NON-C00840,TX,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,,0.0,0.0,38.27,445.0,483.27
+Non-Foya Archive,O60331,2025-12-14 12:50:00,NON-C00840,TX,NON-2010,Fisher Short (Denim),Shorts,Core Collection,2025-09-18,160.0,1,,0.0,0.0,38.27,445.0,483.27
+Non-Foya Archive,O60329,2025-12-14 12:52:00,NON-C00623,WA,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,DROP15,0.15,5.0,25.3,435.0,400.05
+Non-Foya Archive,O60332,2025-12-14 13:08:00,NON-C00190,NY,NON-2014,Fisher Short (Black Stone Washed),Shorts,Archive Sale,2025-11-12,145.0,1,,0.0,5.0,12.62,145.0,162.62
+Non-Foya Archive,O60330,2025-12-14 18:01:00,NON-C00448,IL,NON-2017,Non-Foya / Pennon 1.0 Low,Footwear,Archive Sale,2025-11-12,340.0,1,,0.0,5.0,31.35,340.0,376.35
+Non-Foya Archive,O60331,2025-12-14 21:30:00,NON-C00840,TX,NON-2015,Fisher Short (Green Stone Washed),Shorts,Core Collection,2025-09-18,145.0,1,,0.0,0.0,38.27,445.0,483.27
+Non-Foya Archive,O60333,2025-12-15 21:30:00,NON-C00098,IL,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,1,FREESHIP,0.0,0.0,12.01,155.0,167.01
+Non-Foya Archive,O60334,2025-12-16 22:47:00,NON-C00461,TX,NON-2013,Fisher Short (Black),Shorts,Archive Sale,2025-11-12,140.0,1,,0.0,5.0,9.78,140.0,154.78
+Non-Foya Archive,O60338,2025-12-17 09:53:00,NON-C00785,WA,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,ARCHIVE20,0.2,5.0,13.7,225.0,198.7
+Non-Foya Archive,O60337,2025-12-17 10:22:00,NON-C00490,CA,NON-2009,Black Flared Selvedge Jean,Denim,Core Collection,2025-09-18,190.0,1,,0.0,7.0,15.84,190.0,212.84
+Non-Foya Archive,O60338,2025-12-17 13:36:00,NON-C00785,WA,NON-2006,V2 Basic Denim (Black),Denim,Core Collection,2025-09-18,140.0,1,ARCHIVE20,0.2,5.0,13.7,225.0,198.7
+Non-Foya Archive,O60336,2025-12-17 15:39:00,NON-C00344,NJ,NON-2004,Basic Bootcut Denim,Denim,Core Collection,2025-09-18,155.0,2,,0.0,7.0,29.44,310.0,346.44
+Non-Foya Archive,O60335,2025-12-17 19:32:00,NON-C00165,CA,NON-2002,Flintstone Belt,Accessories,Archive Sale,2025-11-12,85.0,1,,0.0,7.0,5.65,85.0,97.65
