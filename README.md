@@ -51,3 +51,19 @@ This dashboard provides a lightweight analytics layer that allows founders and o
 ```bash
 git clone <https://github.com/andykkimm/nfa_proj>
 cd nonfoya-dashboard
+```
+### 2️⃣ Install dependencies
+It’s recommended to use a virtual environment or conda environment.
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Streamlit app
+```bash
+streamlit run app.py
+```
+
+### Once running, Streamlit will open the app in your browser at:
+```bash
+http://localhost:8501
+```
