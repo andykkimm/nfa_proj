@@ -1,67 +1,57 @@
-import pandas as pd
+import streamlit as st
+from utils.load_data import load_all_data
+from utils.filters import sidebar_filters
+from utils.inventory import compute_inventory_table
 
-def compute_inventory_table(products: pd.DataFrame, inventory: pd.DataFrame) -> pd.DataFrame:
-    # Ensure required columns exist in inventory
-    required_inv = {"product_name", "units_sold_estimate", "units_remaining_estimate"}
-    missing_inv = required_inv - set(inventory.columns)
-    if missing_inv:
-        raise KeyError(f"inventory_snapshot missing columns: {sorted(missing_inv)}")
+st.set_page_config(page_title="Inventory & Products — Non-Foya", layout="wide")
 
-    # Merge product metadata (only take what exists)
-    prod_cols = [c for c in [
-        "product_name",
-        "product_category",
-        "drop_name",
-        "launch_price_usd",
-        "initial_inventory",
-    ] if c in products.columns]
+st.title("Inventory & Products")
+st.caption("Restock vs discontinue signals using sell-through + remaining inventory.")
 
-    df = inventory.merge(
-        products[prod_cols].drop_duplicates("product_name"),
-        on="product_name",
-        how="left",
+# --- Load once ---
+data = load_all_data(data_path="data/mock")
+filters = sidebar_filters(data)
+
+products_raw = data["products"].copy()
+inventory_raw = data["inventory"].copy()
+
+# --- Compute the full lifecycle table FIRST (best practice) ---
+# This avoids "filtering yourself into zero rows" before metrics exist.
+table = compute_inventory_table(products_raw, inventory_raw)
+
+# --- Apply filters to the computed table (display-layer filtering) ---
+filtered = table.copy()
+
+# Brand filter (only apply if the column exists in the computed table)
+# Note: our compute_inventory_table may not include brand; this keeps things robust.
+if filters.get("brand") and filters["brand"] != "All" and "brand" in filtered.columns:
+    filtered = filtered[filtered["brand"] == filters["brand"]]
+
+if filters.get("drop_name") and filters["drop_name"] != "All" and "drop_name" in filtered.columns:
+    filtered = filtered[filtered["drop_name"] == filters["drop_name"]]
+
+if filters.get("category") and filters["category"] != "All" and "product_category" in filtered.columns:
+    filtered = filtered[filtered["product_category"] == filters["category"]]
+
+if filters.get("product_name") and filters["product_name"] != "All" and "product_name" in filtered.columns:
+    filtered = filtered[filtered["product_name"] == filters["product_name"]]
+
+# --- UI ---
+st.subheader("Product lifecycle table")
+
+if filtered.empty:
+    st.info(
+        "No products match your current filters.\n\n"
+        "Try setting **Drop / Category / Product** back to **All**."
     )
+else:
+    # Streamlit deprecating use_container_width; use width="stretch"
+    st.dataframe(filtered, width="stretch", hide_index=True)
 
-    # Always create initial_inventory:
-    # if products.initial_inventory exists, use it; otherwise compute from snapshot
-    computed_initial = df["units_sold_estimate"].fillna(0) + df["units_remaining_estimate"].fillna(0)
-
-    if "initial_inventory" not in df.columns:
-        df["initial_inventory"] = computed_initial
-    else:
-        df["initial_inventory"] = df["initial_inventory"].fillna(computed_initial)
-
-    denom = df["initial_inventory"].replace(0, pd.NA)
-    df["sell_through_pct"] = (df["units_sold_estimate"].fillna(0) / denom).fillna(0) * 100
-
-    def recommend(row):
-        remaining = float(row.get("units_remaining_estimate", 0) or 0)
-        sell = float(row.get("sell_through_pct", 0) or 0)
-        init = float(row.get("initial_inventory", 0) or 0)
-
-        if remaining <= 0 and sell >= 95:
-            return "Restock candidate"
-        if sell >= 85 and remaining <= max(5, 0.08 * init):
-            return "Consider restock"
-        if sell <= 45 and remaining >= 0.4 * init:
-            return "Discount / bundle"
-        return "Monitor"
-
-    df["recommendation"] = df.apply(recommend, axis=1)
-
-    out = df[[
-        "product_name",
-        "product_category",
-        "drop_name",
-        "launch_price_usd",
-        "initial_inventory",
-        "units_sold_estimate",
-        "units_remaining_estimate",
-        "sell_through_pct",
-        "recommendation",
-    ]].copy()
-
-    out["sell_through_pct"] = out["sell_through_pct"].round(1)
-    out = out.sort_values(["recommendation", "sell_through_pct"], ascending=[True, False])
-
-    return out
+st.markdown(
+    """
+**How to use this page**
+- **Sell-through** near 100% + **low remaining** = strong restock candidate.
+- **High remaining** + **low sell-through** = discount, bundle, or consider discontinuing.
+"""
+)
