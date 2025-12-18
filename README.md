@@ -45,3 +45,9 @@ This dashboard provides a lightweight analytics layer that allows founders and o
 - Streamlit (dashboard framework)
 - Pandas / NumPy (data processing)
 - Matplotlib (visualizations)
+
+## 💻 Running the Dashboard Locally
+### 1️⃣ Clone the repository
+```bash
+git clone <repo-url>
+cd nonfoya-dashboard
