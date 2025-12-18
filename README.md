@@ -5,33 +5,22 @@ An interactive Streamlit dashboard built to support data-driven decision-making 
 The dashboard integrates sales, inventory, product drop, customer, and Instagram data to help non-technical stakeholders answer questions around:
 
 - Which products should be restocked vs discontinued
-
 - How different drops perform over time
-
 - Where inventory is getting stuck (dead stock)
-
 - How Instagram engagement aligns with sales
-
 - Whether the brand is building repeat customers
-
 This project is designed as a realistic analytics product, not a toy dataset or one-off analysis.
 
 ## Project Motivation
 
 Independent clothing brands operate with limited capital and high uncertainty. Decisions about drop sizing, pricing, restocking, and marketing are often made based on intuition rather than data.
-
 This dashboard provides a lightweight analytics layer that allows founders and operators to:
-
 - Understand what is working and what is not
-
 - Reduce inventory risk
-
 - Make more confident operational and marketing decisions
 
 ## What This Dashboard Includes
-
 📊 Overview
-
 - Revenue, orders, average order value
 
 - Repeat customer rate
