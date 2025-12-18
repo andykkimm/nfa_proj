@@ -49,5 +49,5 @@ This dashboard provides a lightweight analytics layer that allows founders and o
 ## 💻 Running the Dashboard Locally
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repo-url>
+git clone <https://github.com/andykkimm/nfa_proj>
 cd nonfoya-dashboard
