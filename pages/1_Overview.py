@@ -58,11 +58,13 @@ unique_orders = orders.drop_duplicates("order_id")
 daily = unique_orders.groupby(unique_orders["order_datetime"].dt.date)["order_total_usd"].sum().reset_index()
 daily.columns = ["date", "revenue_usd"]
 
-fig = plt.figure()
-plt.plot(pd.to_datetime(daily["date"]), daily["revenue_usd"])
-plt.xlabel("Date")
-plt.ylabel("Revenue (USD)")
-st.pyplot(fig, clear_figure=True)
+fig, ax = plt.subplots(figsize=(10, 3))  # <-- controls size
+ax.plot(pd.to_datetime(daily["date"]), daily["revenue_usd"])
+ax.set_xlabel("Date")
+ax.set_ylabel("Revenue (USD)")
+fig.tight_layout()
+
+st.pyplot(fig, use_container_width=True)  # <-- makes it fit the page width
 
 # --- Revenue by category (line-item, recommended) ---
 st.subheader("Revenue by category (line-item)")
@@ -74,8 +76,11 @@ cat_rev = (orders2.groupby("product_category")["line_revenue"]
            .sum()
            .sort_values(ascending=False))
 
-fig2 = plt.figure()
-plt.bar(cat_rev.index.astype(str), cat_rev.values)
-plt.xticks(rotation=30, ha="right")
-plt.ylabel("Revenue (USD)")
-st.pyplot(fig2, clear_figure=True)
+fig2, ax2 = plt.subplots(figsize=(10, 3))
+ax2.bar(cat_rev.index.astype(str), cat_rev.values)
+ax2.tick_params(axis="x", rotation=25)
+ax2.set_ylabel("Revenue (USD)")
+fig2.tight_layout()
+
+st.pyplot(fig2, use_container_width=True)
+
