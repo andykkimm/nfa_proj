@@ -1,4 +1,4 @@
-#Non-Foya Archive — Business Analytics Dashboard
+## Non-Foya Archive — Business Analytics Dashboard
 
 An interactive Streamlit dashboard built to support data-driven decision-making for Non-Foya Archive, an independent, founder-led clothing brand.
 
