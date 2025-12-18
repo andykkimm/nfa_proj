@@ -69,3 +69,10 @@ This dashboard provides a lightweight analytics layer that allows founders and o
 - New vs repeat customers
 
 - Distribution of orders per customer
+
+## Tech Stack
+
+- Python
+- Streamlit (dashboard framework)
+- Pandas / NumPy (data processing)
+- Matplotlib (visualizations)
