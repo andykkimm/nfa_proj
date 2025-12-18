@@ -20,47 +20,27 @@ This dashboard provides a lightweight analytics layer that allows founders and o
 - Make more confident operational and marketing decisions
 
 ## What This Dashboard Includes
-📊 Overview
+### 📊 Overview
 - Revenue, orders, average order value
-
 - Repeat customer rate
-
 - Sold-out product percentage
-
 - Revenue trends over time
-
-📦 Inventory & Products
-
+### 📦 Inventory & Products
 - Sell-through rate by product
-
 - Units remaining
-
 - Simple restock / discount recommendations
-
-🚀 Drop Performance
-
+### 🚀 Drop Performance
 - Revenue by drop
-
 - Orders by drop
-
 - Comparison across collections
-
-📱 Instagram → Sales
-
+### 📱 Instagram → Sales
 - Daily Instagram reach and engagement
-
 - Alignment between engagement metrics and sales
-
 - Drop-week amplification effects 
-
-👥 Customers
-
+### 👥 Customers
 - New vs repeat customers
-
 - Distribution of orders per customer
-
 ## Tech Stack
-
 - Python
 - Streamlit (dashboard framework)
 - Pandas / NumPy (data processing)
